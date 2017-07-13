@@ -1,0 +1,40 @@
+.eat {
+    padding-top: 150px;
+    text-align: center;
+    font-weight: bold;
+    color: #ff5722;
+    display: inline-block;
+
+
+}
+
+
+
+.eat span:hover{
+    background: #ff5722;
+    color :  #FFFFFF;
+    cursor: pointer;
+
+}
+
+
+.eat>span {
+    font-size: 65px;
+    display:inline;
+    background: #FFFFFF;
+    margin: 15px;
+    border-radius: 30px;
+    margin-left: 150px;
+}
+.down>span {
+    font-size: 65px;
+    display:inline;
+    background: #FFFFFF;
+    margin: 15px;
+    border-radius: 30px;
+    margin-left: 350px;
+}
+
+body{
+    background-image: url("../images/eat2.jpg");
+}
